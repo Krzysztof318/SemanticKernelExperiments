@@ -18,7 +18,7 @@ var kernel = Kernel.CreateBuilder()
 
 Console.WriteLine("Setup complete");
 
-string prompt = "Write mi story about elephants.";
+string prompt = "Where lives elephants?";
 
 var chats = kernel.GetAllServices<IChatCompletionService>();
 
