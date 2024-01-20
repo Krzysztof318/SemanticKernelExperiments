@@ -51,6 +51,6 @@ Console.ReadKey();
         be found in grasslands, swamps, and even mountainous areas.
             * **Islands:** There are also populations of elephants living on islands, such as the Sri Lankan elephant
         (Elephas maximus maximus) and the Sumatran elephant (Elephas maximus sumatranus). These elephants have adapted
-    to the unique conditions of their island habitats, such as smaller size and limited food resources.
+        to the unique conditions of their island habitats, such as smaller size and limited food resources.
 
 */
