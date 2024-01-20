@@ -33,6 +33,7 @@ foreach (var chat in chats)
 
 Console.WriteLine("\nEND");
 Console.ReadKey();
+
 /* SAMPLE OUTPUT
  
  gpt-3.5-turbo-1106 (openai)
