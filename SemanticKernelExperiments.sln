@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeminiOpenAIConversation", "GeminiOpenAIConversation\GeminiOpenAIConversation.csproj", "{0E6D88F0-3D8A-4D00-B4D1-AFD13454BABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModerationViolation", "ModerationViolation\ModerationViolation.csproj", "{F1EC6519-EB7B-44FD-AF64-40BAA18EF402}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0E6D88F0-3D8A-4D00-B4D1-AFD13454BABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E6D88F0-3D8A-4D00-B4D1-AFD13454BABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E6D88F0-3D8A-4D00-B4D1-AFD13454BABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1EC6519-EB7B-44FD-AF64-40BAA18EF402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EC6519-EB7B-44FD-AF64-40BAA18EF402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EC6519-EB7B-44FD-AF64-40BAA18EF402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EC6519-EB7B-44FD-AF64-40BAA18EF402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
